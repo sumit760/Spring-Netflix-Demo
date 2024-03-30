@@ -1,3 +1,5 @@
 # Spring-Netflix-Demo
 
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/{owner}/{repo}/badge)](https://securityscorecards.dev/viewer/?uri=github.com/{owner}/{repo})
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/sumit760/Spring-Netflix-Demo
+/badge)](https://securityscorecards.dev/viewer/?uri=github.com/sumit760/Spring-Netflix-Demo
+)
