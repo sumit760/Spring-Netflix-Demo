@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Spring-Netflix-Demo
+  annotations:
+    github.com/project-slug: sumit760/Spring-Netflix-Demo
+spec:
+  type: other
+  lifecycle: unknown
+  owner: pal.sumit.76
